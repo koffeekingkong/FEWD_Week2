@@ -1,0 +1,28 @@
+body{
+  font-family:helvetica;
+  line-height: 1.5;
+  margin:0;
+  padding:0;
+}
+
+h1{
+  border: 5px solid black;
+  padding: 10px;
+  background-color: deeppink;
+  margin:0;
+}
+
+p {
+  border: 5px solid black;
+  padding: 10px;
+  background-color: dodgerblue;
+  border-radius: 25px;
+  color:white;
+}
+
+code{
+  background-color:white;
+  color:dodgerblue;
+  border: 1px solid black;
+  padding:2px;
+}
